@@ -36,16 +36,50 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
+<img width="1052" height="660" alt="image" src="https://github.com/user-attachments/assets/1adfbc56-d722-4d5e-a3eb-8308b1479baf" />
 
-Bridge rectifier with filter:
+
+Full rectifier with and without filter:
+<img width="978" height="712" alt="image" src="https://github.com/user-attachments/assets/a9ee3dd7-a9bb-4e83-9f84-5d7051c96e46" />
+
 
 TABULAR COLUMN
-Rectifier without filter
+Half wave rectifier with and without filter
+<img width="1177" height="355" alt="image" src="https://github.com/user-attachments/assets/a1cd23a7-b801-42ae-9e2a-b706e26592e0" />
+<img width="1326" height="563" alt="image" src="https://github.com/user-attachments/assets/8fc60ea9-7886-4720-8fbd-9807f575a345" />
+
+
 TABULAR COLUMN
-Rectifier with filter
+Full wave rectifier with and without filter
+<img width="1141" height="397" alt="image" src="https://github.com/user-attachments/assets/5dfa57e0-b373-4357-82e8-21166cc13e85" />
+<img width="1296" height="1012" alt="image" src="https://github.com/user-attachments/assets/5fb643bc-7a0f-4c46-8c3c-980e6e1522a0" />
+
+
 
 WAVEFORM:
+Half wave rectifier with and without filter:
+<img width="925" height="690" alt="image" src="https://github.com/user-attachments/assets/3c87e40c-a995-4152-bf48-f21dc7beb2f4" />
+<img width="1143" height="730" alt="image" src="https://github.com/user-attachments/assets/80323c5e-08ee-44a7-9fe5-e4aa4e6a2b3c" />
+<img width="902" height="680" alt="image" src="https://github.com/user-attachments/assets/5a57663c-464c-4cda-99bf-1b05c4c25f4a" />
+<img width="920" height="705" alt="image" src="https://github.com/user-attachments/assets/00d540ea-9353-463e-9f45-ffb7171cfcf0" />
+
+Full wave rectifier with and without filter:
+<img width="1142" height="728" alt="image" src="https://github.com/user-attachments/assets/bfc8a48b-7496-4e99-b69c-ccf04ce7e375" />
+<img width="1147" height="728" alt="image" src="https://github.com/user-attachments/assets/a965a398-7684-4dd1-91a3-140f46282f4d" />
+<img width="1146" height="730" alt="image" src="https://github.com/user-attachments/assets/c32c7ee5-c9a3-476f-bd09-b40ca654c94d" />
+<img width="891" height="682" alt="image" src="https://github.com/user-attachments/assets/b782ff78-a2ff-4149-919d-5fced6c5df55" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 RESULT:
